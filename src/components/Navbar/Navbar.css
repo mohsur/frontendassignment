@@ -1,0 +1,41 @@
+.Nav-header{
+    height : 50px;
+    background-color:rgb(182, 222, 255);
+}
+.selectGroup{
+    padding: 3px;
+}
+
+.showButton{
+    padding:10px;
+    height:70px;
+    position: relative; 
+}
+
+.dropDown{
+    position: absolute;
+    width: 250px;
+    background-color: #fbfbfb;
+    border-radius: 10px;
+    margin-top: 10px;
+    z-index: 10;
+}
+
+.dropDown > *{
+    width: 100%;
+}
+
+.btn{
+    height: 35px;
+   
+    background:  #e4f7c6;;
+    border: 1px solid silver;
+    border-radius: 10px;
+}
+
+.selectStyle{
+    width: 100px;
+    border-radius: 5px;
+    background: white;
+    padding: 2px 5px;
+}

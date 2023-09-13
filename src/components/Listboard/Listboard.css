@@ -1,0 +1,17 @@
+.ListBoardContainer{
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+    flex-wrap: wrap;
+    background: rgb(121, 240, 229); 
+    padding: 4px 9px;
+}
+
+.ListBoardCardContainer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    gap: 4px;
+    width : 250px;
+}
